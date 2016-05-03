@@ -13,4 +13,6 @@
 
 ### Screenshots ###
 
-![ss+(2016-05-04+at+12.05.07).png](https://bitbucket.org/repo/naBLb6/images/4210849704-ss+(2016-05-04+at+12.05.07).png)![ss+(2016-05-04+at+12.09.29).png](https://bitbucket.org/repo/naBLb6/images/1501644389-ss+(2016-05-04+at+12.09.29).png)
+![ss+(2016-05-04+at+12.09.29).png](https://bitbucket.org/repo/naBLb6/images/3773376745-ss+(2016-05-04+at+12.09.29).png)
+
+![ss+(2016-05-04+at+12.05.07).png](https://bitbucket.org/repo/naBLb6/images/2039244984-ss+(2016-05-04+at+12.05.07).png)
