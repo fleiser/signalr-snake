@@ -12,4 +12,4 @@
 
 ### Screenshots ###
 
-[New snake](https://bitbucket.org/FishFishFish/signalR-snake/master/screenshots/new.jpg)
+[New snake](https://bitbucket.org/FishFishFish/signalR-snake/src/screenshots/new.jpg)
