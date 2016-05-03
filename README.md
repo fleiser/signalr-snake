@@ -11,3 +11,5 @@
   calculations are on the server, only the angle deciding next move and drawing is handled by the client.
 
 ### Screenshots ###
+
+[New snake](https://bitbucket.org/FishFishFish/signalR-snake/master/screenshots/new.jpg)
