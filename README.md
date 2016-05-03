@@ -11,7 +11,3 @@
   calculations are on the server, only the angle deciding next move and drawing is handled by the client.
 
 ### Screenshots ###
-
-![ss+(2016-05-04+at+12.05.07).png](https://bitbucket.org/repo/naBLb6/images/547498824-ss+(2016-05-04+at+12.05.07)
-
-![ss+(2016-05-04+at+12.09.29).png](https://bitbucket.org/repo/naBLb6/images/1616119825-ss+(2016-05-04+at+12.09.29)
