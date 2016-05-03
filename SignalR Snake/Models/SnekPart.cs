@@ -10,6 +10,6 @@ namespace SignalR_Snake.Models
     {
         public Point Position { get; set; }
         public string Color { get; set; }
-        public string Name { get; set; } //redundant info, would requiere a rewrite to implement better
+        public string Name { get; set; } 
     }
 }
