@@ -12,4 +12,5 @@
 
 ### Screenshots ###
 * [New snake](https://bytebucket.org/FishFishFish/signalr-snake/raw/67f711b9bafe3c7722e7706c6db35b8bce23bc47/Screenshots/new.png)
-* [Gameplay](https://bytebucket.org/FishFishFish/signalr-snake/raw/67f711b9bafe3c7722e7706c6db35b8bce23bc47/Screenshots/play.png)
+* [Gameplay I](https://bytebucket.org/FishFishFish/signalr-snake/raw/67f711b9bafe3c7722e7706c6db35b8bce23bc47/Screenshots/play.png)
+* [Gameplay II](https://bytebucket.org/FishFishFish/signalr-snake/raw/d678ab6e61478d89c4e86358535d55cedc05cae9/Screenshots/playTwo.png)
