@@ -11,6 +11,7 @@
   calculations are on the server, only the angle deciding next move and drawing is handled by the client.
 
 ### Screenshots ###
-* [New snake](https://bytebucket.org/FishFishFish/signalr-snake/raw/67f711b9bafe3c7722e7706c6db35b8bce23bc47/Screenshots/new.png)
-* [Gameplay I](https://bytebucket.org/FishFishFish/signalr-snake/raw/67f711b9bafe3c7722e7706c6db35b8bce23bc47/Screenshots/play.png)
-* [Gameplay II](https://bytebucket.org/FishFishFish/signalr-snake/raw/d678ab6e61478d89c4e86358535d55cedc05cae9/Screenshots/playTwo.png)
+
+![new.png](https://bitbucket.org/repo/naBLb6/images/3207142870-new.png)
+![play.png](https://bitbucket.org/repo/naBLb6/images/1782007431-play.png)
+![playTwo.png](https://bitbucket.org/repo/naBLb6/images/915041262-playTwo.png)
